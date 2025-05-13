@@ -13,7 +13,7 @@ docker run -p 8080:8080 aplikacja-pogodowa-michal-krocz
 
 c. Sprawdzenie logów
 
-docker logs <id kontenera>
+docker logs id-kontenera
 
 d. Rozmiar obrazu
 
